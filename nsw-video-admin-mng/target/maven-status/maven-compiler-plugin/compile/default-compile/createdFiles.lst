@@ -1,5 +1,0 @@
-com\nsw\controller\UsersController.class
-com\nsw\bean\AdminUser.class
-com\nsw\interceptor\LoginInterceptor.class
-com\nsw\controller\HelloController.class
-com\nsw\controller\VideoController.class
